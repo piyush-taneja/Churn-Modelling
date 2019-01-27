@@ -1,0 +1,4 @@
+# Churn-Modelling
+The goal of this project is to predict which customers has the high Churn rate (i.e rate of leaving the company) Bank using Artificial Neural Networks.
+This dataset is of bank with 10,000 customers with their data. The bank has been seeing churn rate (i.e when the people leave the company) and they been seeing the customes are leaving at a very high rate and they want to understand what the problem is and they want to assess and address their problem. That is why they hired a Machine Learner Scientist to look into this previous 6 months dataset for them and give them some in site as this is a big problem for the bank. So the bank took up data of 10,000 customers and they measured everything they knew about these customers like gender, age, creditsore etc.
+This model could also be used to detect whether a person should be approved for loan or not as we would be getting the binary outcomes.
